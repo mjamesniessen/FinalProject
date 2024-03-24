@@ -1,0 +1,1 @@
+This is the repository containing all necessary code to run my Final Project. The only caveat is that the trained KNN and SVM models for the CNN were too large for upload. The joblib files can be found in the following dropbox for download at your convenience. https://www.dropbox.com/scl/fo/zxf4602n785g7rncs7tr7/h?rlkey=pyw6kv6bv16ez83bqpqb98w89&dl=0. Thank you!
