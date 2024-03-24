@@ -3,3 +3,4 @@ Brain_Tumor_KNN/** filter=lfs diff=lfs merge=lfs -text
 Images/** filter=lfs diff=lfs merge=lfs -text
 kn_res/** filter=lfs diff=lfs merge=lfs -text
 KN_Model/** filter=lfs diff=lfs merge=lfs -text
+Res_Model/** filter=lfs diff=lfs merge=lfs -text
